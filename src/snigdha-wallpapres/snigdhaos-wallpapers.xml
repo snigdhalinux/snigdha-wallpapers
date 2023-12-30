@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper deleted="false">
+<name>Default</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-01.png</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-01.png</filename-dark>
+<options>zoom</options>
+<shade_type>solid</shade_type>
+<pcolor>#3465a4</pcolor>
+<scolor>#000000</scolor>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 02</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-02.png</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-02.png</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 03</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-03.png</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-03.png</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 04</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-default.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-default.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 05</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-01.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-01.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 06</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-02.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-02.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 07</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-03.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-03.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 08</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-04.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-04.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 09</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-05.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-05.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 10</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-06.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-06.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 11</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-07.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-07.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 12</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-08.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-08.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 13</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-09.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-09.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 14</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-10.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-10.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 15</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-11.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-11.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 16</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-12.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-12.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 17</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-13.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-13.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 18</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-14.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-14.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 19</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-15.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-15.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 20</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-16.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-16.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Background 21</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-17.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-wallpaper-17.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+</wallpapers>
+
