@@ -3,8 +3,8 @@
 <wallpapers>
 <wallpaper deleted="false">
 <name>Default</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-01.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-01.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-01.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-01.jpg</filename-dark>
 <options>zoom</options>
 <shade_type>solid</shade_type>
 <pcolor>#3465a4</pcolor>
@@ -12,8 +12,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 02</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-02.jpg/filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-02.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-02.jpg/filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-02.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -21,8 +21,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 03</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-03.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-03.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-03.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-03.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -30,8 +30,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 04</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-04.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-04.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-04.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-04.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -39,8 +39,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 05</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-05.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-05.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-05.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-05.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -48,8 +48,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 06</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-06.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-06.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-06.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-06.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -57,8 +57,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 07</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdhaos-07.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-07.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdhaos-07.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-07.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -66,8 +66,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 08</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-08.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-08.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-08.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-08.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -75,8 +75,8 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 09</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-09.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-09.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-09.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-09.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -84,21 +84,21 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Background 10</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-10.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-10.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-10.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-10.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
 </wallpaper>
-<wallpaper deleted="false">
+<!-- <wallpaper deleted="false">
 <name>Background 10</name>
-<filename>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-11.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-wallpapers/snigdha-11.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdha-wallpapers/snigdha-11.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdha-wallpapers/snigdha-11.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
-</wallpaper>
+</wallpaper> -->
 </wallpapers>
 
